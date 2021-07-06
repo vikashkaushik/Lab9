@@ -1,8 +1,8 @@
 /*
- * Project Lab8
- * Description:
- * Author:
- * Date:
+ * Project Lab9
+ * Description: Uisng all the concepts, lowSet and highSet value controls the leds. Oled and blynk are also used.
+ * Author: Vikash Kaushik
+ * Date:7/5/21
  */
 SYSTEM_THREAD(ENABLED);
 #include <blynk.h>
